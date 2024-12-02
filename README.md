@@ -1,0 +1,2 @@
+# naxagic.ru
+my project
